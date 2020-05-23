@@ -1,2 +1,2 @@
-# Voice-Recognition
-Voice Recognition using HMM, GMM
+# Speech Recognition
+Speech Recognition using HMM, GMM
